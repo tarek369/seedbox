@@ -180,7 +180,7 @@ echo -e "${CCYAN}INSTALLATION${CEND}"
 			echo -e "${CGREEN}${CEND}"
 			
 			# Variables par défault, peuvent être modifiée
-			export VOLUMES_ROOT_PATH=/home/predator999
+			export VOLUMES_ROOT_PATH=/home/tarek
 
 
 			read -rp "Voulez modifier la variable ci dessus ? (o/n) : " EXCLUDE
