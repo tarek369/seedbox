@@ -108,7 +108,8 @@ echo -e "${CCYAN}INSTALLATION${CEND}"
 			clear
 			logo.sh			
 			echo -e "${CCYAN}-------------------------------------------------------------------------------------------------------------------------${CEND}"
-			echo -e "${CCYAN}					PRECISONS SUR LES VARIABLES							  ${CEND}"
+			echo -e "${CCYAN}					
+			CISONS SUR LES VARIABLES							  ${CEND}"
 			echo -e "${CCYAN}-------------------------------------------------------------------------------------------------------------------------${CEND}"
 			echo -e "${CGREEN}		Cette étape permet une installation personnalisée configurable à vos besoins				 ${CEND}"	
 			echo -e "${CGREEN}		Une fois les variables définies, la configuration sera complètement automatisée 			 ${CEND}"
@@ -170,7 +171,7 @@ echo -e "${CCYAN}INSTALLATION${CEND}"
 			echo -e "${CGREEN}				LA VARIABLE CI DESSOUS EST DEFINIE PAR DEFAULT SUR L HOTE			  	  ${CEND}"
 			echo -e "${CGREEN}															  ${CEND}"
 			echo -e "${CCYAN}-------------------------------------------------------------------------------------------------------------------------${CEND}"
-			echo -e "${CCYAN}	  ${CPURPLE}VOLUMES_ROOT_PATH:${CRED} Emplacement des volumes sur l'hote:	${CCYAN}/home/predator999	  ${CEND}"
+			echo -e "${CCYAN}	  ${CPURPLE}VOLUMES_ROOT_PATH:${CRED} Emplacement des volumes sur l'hote:	${CCYAN}/home/tarek	  ${CEND}"
 			echo -e "${CCYAN}-------------------------------------------------------------------------------------------------------------------------${CEND}"
 			echo -e "${CGREEN}															  ${CEND}"
 			echo -e "${CGREEN}				TU PEUX MODIFIER CETTE VARIABLE A TA CONVENANCE						  ${CEND}"
