@@ -194,7 +194,7 @@ echo -e "${CCYAN}INSTALLATION${CEND}"
 						then
 			 				export VOLUMES_ROOT_PATH
 						else
-			 				VOLUMES_ROOT_PATH=/home/predator999
+			 				VOLUMES_ROOT_PATH=/home/tarek
 			 				export VOLUMES_ROOT_PATH
 						fi
 				fi
